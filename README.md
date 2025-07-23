@@ -5,7 +5,7 @@ Apart from a frontend, you'll need a backend, this template contains an example 
 ## To run, install:
 
 - deps, `cd frontend;pnpm i;cd -;cd backend;pnpm i`
-- ngrok - Create a free ngrok account, follow the official [docs](https://ngrok.com/docs/getting-started/)
+- ngrok - Create a free ngrok account, follow the official [docs](https:https://ngrok.com/docs/getting-started///ngrok.com/docs/getting-started/)
 - nginx - use you favorite package manager :)
 
 ### nginx setup
